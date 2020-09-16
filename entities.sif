@@ -1,0 +1,14 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = Material
+End
+
+Body 2
+  Name = Material
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = Edges
+End
+
